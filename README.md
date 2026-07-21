@@ -68,4 +68,4 @@ Government procurement processes, particularly within the **Central Reserve Poli
 - **Auditability**: Every AI decision is logged with the prompt, reasoning chain, and document hash for legal defensibility.
 
 ---
-*Developed for the CRPF Hackathon by Antigravity AI*
+*Developed for the CRPF Hackathon*
